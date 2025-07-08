@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\petVirtual\bin\Debug\net9.0\petVirtual.exe
+C:\Users\thiag\Github\petVirtual\bin\Debug\net9.0\petVirtual.deps.json
+C:\Users\thiag\Github\petVirtual\bin\Debug\net9.0\petVirtual.runtimeconfig.json
+C:\Users\thiag\Github\petVirtual\bin\Debug\net9.0\petVirtual.dll
+C:\Users\thiag\Github\petVirtual\bin\Debug\net9.0\petVirtual.pdb
+C:\Users\thiag\Github\petVirtual\obj\Debug\net9.0\petVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\petVirtual\obj\Debug\net9.0\petVirtual.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\petVirtual\obj\Debug\net9.0\petVirtual.AssemblyInfo.cs
+C:\Users\thiag\Github\petVirtual\obj\Debug\net9.0\petVirtual.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\petVirtual\obj\Debug\net9.0\petVirtual.sourcelink.json
+C:\Users\thiag\Github\petVirtual\obj\Debug\net9.0\petVirtual.dll
+C:\Users\thiag\Github\petVirtual\obj\Debug\net9.0\refint\petVirtual.dll
+C:\Users\thiag\Github\petVirtual\obj\Debug\net9.0\petVirtual.pdb
+C:\Users\thiag\Github\petVirtual\obj\Debug\net9.0\petVirtual.genruntimeconfig.cache
+C:\Users\thiag\Github\petVirtual\obj\Debug\net9.0\ref\petVirtual.dll

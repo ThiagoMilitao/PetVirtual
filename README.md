@@ -14,7 +14,7 @@ Este projeto foi desenvolvido como prática de:
 - **Exibição visual (ASCII art) do pet no console**
   - Cada pet tem sua própria representação em arte ASCII para tornar o jogo mais divertido e visual.
 
--  **Atributos gerenciáveis**
+-  **Atributos gerenciáveis** :
   - O pet possui cinco atributos principais que variam durante o jogo:
     - Fome
     - Felicidade
