@@ -8,28 +8,19 @@ Este projeto foi desenvolvido como prática de:
 - Interação via console
 
 ### Funcionalidades
-**Seleção de tipo e nome do pet**
-  - O jogador pode escolher entre diversas espécies e nomear seu companheiro virtual.
+- Seleção de tipo e nome do pet
+- Exibição visual (ASCII art) do pet no console
+- Atributos gerenciáveis: Fome, Felicidade, Energia, Higiene e Saúde
+- Sistema de ações com consequências (positivas e negativas)
+- Ciclo de tempo: os atributos se alteram a cada rodada
+- Condição de morte caso o pet seja negligenciado
+- Mensagens personalizadas para cada tipo de interação
 
-- **Exibição visual (ASCII art) do pet no console**
-  - Cada pet tem sua própria representação em arte ASCII para tornar o jogo mais divertido e visual.
-
--  **Atributos gerenciáveis** :
-  - O pet possui cinco atributos principais que variam durante o jogo:
-    - Fome
-    - Felicidade
-    - Energia
-    - Higiene
-    - Saúde
-
--  **Sistema de ações com consequências**
-  - Ações como alimentar, brincar ou levar ao veterinário impactam os atributos de formas diferentes (positiva ou negativamente).
-
-- **Ciclo de tempo**
-  - A cada rodada, os atributos se alteram automaticamente simulando o passar do tempo e exigindo atenção constante do jogador.
-
--  **Condição de morte**
-  - Se a saúde do pet chegar a 0 por falta de cuidado, o pet morre e o jogo termina com uma mensagem de despedida.
+### Telas
+<img src="/sketchs/tela1.png" alt="Tela1" width=500 height=500>
+<img src="/sketchs/tela2.png" alt="Tela1" width=500 height=500>
+<img src="/sketchs/tela3.png" alt="Tela1" width=500 height=500>
+<img src="/sketchs/tela4.png" alt="Tela1" width=500 height=500>
 
  ### Aprendizados com o Projeto
 - Organização de projetos C# com múltiplas classes
